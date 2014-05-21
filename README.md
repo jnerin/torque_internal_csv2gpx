@@ -10,6 +10,7 @@ It will write a file Torque-${start_time}_${end_time}.gpx like: Torque-20130526-
 
 Fragment sample:
 
+```XML
 <?xml version="1.0" encoding="utf-8"?>
 <gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Geo::Gpx" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/0">
 <time>2014-05-13T16:27:16Z</time>
@@ -49,3 +50,5 @@ Fragment sample:
 </trkseg>
 </trk>
 </gpx>
+```
+
