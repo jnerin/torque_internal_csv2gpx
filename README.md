@@ -8,7 +8,7 @@ perl torque_internal_csv2gpx.pl tackLog.csv
 
 It will write a file Torque-${start_time}_${end_time}.gpx like: Torque-20130526-132712_20130526-134444.gpx
 
-Fragment sample:
+Fragment:
 
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
